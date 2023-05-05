@@ -1,1 +1,1 @@
-# change line endings
+Change CRSF to LF
